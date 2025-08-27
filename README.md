@@ -14,7 +14,7 @@ RFID    -->       Arduino \
     vcc    -x \
     GNG    ->          GND \
     RST    ->          D9 \
-    VCC    ->          3.3v \
+    VCC    ->          3.3v 
 
 We connect the buttons and LED to their own pins, the example uses a specific connection!
 
