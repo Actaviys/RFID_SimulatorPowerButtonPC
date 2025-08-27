@@ -11,7 +11,7 @@ RFID    -->       Arduino \
     SCK    ->          D13 \
     MOSI   ->          D11 \
     MISO   ->          D12 \
-    vcc    -x \
+    vcc    -x not used in this prototype!\
     GNG    ->          GND \
     RST    ->          D9 \
     VCC    ->          3.3v 
