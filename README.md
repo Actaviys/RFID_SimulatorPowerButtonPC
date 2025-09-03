@@ -19,4 +19,4 @@ RFID    -->       Arduino \
 We connect the buttons and LED to their own pins, the example uses a specific connection!
 
 Power for Arduino must be taken directly from the power supply. To do this, you need regular to find 5V on the main 24-pin connector of the power supply, and use it as a power supply for the board `Arduino`. \
-The project was written using the Platformio framework.
+The project was written using the Platformio framework, and the MFRC522 library (author Miguelbalboa).
